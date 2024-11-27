@@ -1,0 +1,3 @@
+los interrogantes significa que tenemos que averiguarlo. La llamada a la función tiene que ser tal cual o si no no va. 2 puntos por crear ben a residualblock, 2 puntos crear a red completa e cargar os pesos. logo fine-tuning con cifar-10. cando chamemos á parte preentrenada `pretend(x, training=False)`. recomienda usar data augmentation (es un punto más en la nota.) Hai que entrenalo sen chamar a función `fit`. (_Leer tutorial enlace._). Con finetuning hay que tener cuidado con batchnormalization. o loearning rate en transefer learning `1e-5` (dous ou tres grados de magnitude menos).
+
+como entregar: o github de sempre, con `git tag P2` (fecha < 20 noviembre 22:50).
